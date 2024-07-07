@@ -16,16 +16,11 @@ Tables and Relationships:
 
 Key Operations:
 
-Inserts: Add records to tables, including ports, companies, cruises, trips, bookings, fares, and travelers.
-
-Updates: Modify existing records, such as updating port names, cruise capacities, and trip details.
-
-Deletes: Remove records from tables.
-
-Joins: Retrieve combined information across multiple tables, such as cruise names with company names and bookings with user details.
-
-Aggregate Functions: Perform calculations like finding cruises with capacity above the average.
-
-Correlated Subqueries: Complex queries to find specific data, like users who have booked multiple trips.
+1. Inserts: Add records to tables, including ports, companies, cruises, trips, bookings, fares, and travelers.
+2. Updates: Modify existing records, such as updating port names, cruise capacities, and trip details.
+3. Deletes: Remove records from tables.
+4. Joins: Retrieve combined information across multiple tables, such as cruise names with company names and bookings with user details.
+5. Aggregate Functions: Perform calculations like finding cruises with capacity above the average.
+6. Correlated Subqueries: Complex queries to find specific data, like users who have booked multiple trips.
 
 This system facilitates comprehensive management of cruises, including detailed tracking of ports, ships, trips, bookings, and associated users.
