@@ -13,3 +13,19 @@ Tables and Relationships:
 8. BOOKS: Links users to their booked cruise trips.
 9. FARE: Contains fare details for each trip.
 10. TRAVELLER: Records travelers and their assigned rooms on cruises.
+
+Key Operations:
+
+Inserts: Add records to tables, including ports, companies, cruises, trips, bookings, fares, and travelers.
+
+Updates: Modify existing records, such as updating port names, cruise capacities, and trip details.
+
+Deletes: Remove records from tables.
+
+Joins: Retrieve combined information across multiple tables, such as cruise names with company names and bookings with user details.
+
+Aggregate Functions: Perform calculations like finding cruises with capacity above the average.
+
+Correlated Subqueries: Complex queries to find specific data, like users who have booked multiple trips.
+
+This system facilitates comprehensive management of cruises, including detailed tracking of ports, ships, trips, bookings, and associated users.
