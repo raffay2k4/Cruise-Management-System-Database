@@ -1,7 +1,7 @@
 # Cruise-Management-System-Database
 The objective for this project was to design and implement a relational database to manage a cruise system. The database handles various entities such as ports, cruise companies, cruises, staterooms, users, cruise trips, bookings, fares, and travelers.
 
-## Tables and Relationships:
+### Tables and Relationships:
 
 1. PORTS: Stores details of ports.
 2. CRUISE_COMPANY: Stores information about different cruise companies.
@@ -14,7 +14,7 @@ The objective for this project was to design and implement a relational database
 9. FARE: Contains fare details for each trip.
 10. TRAVELLER: Records travelers and their assigned rooms on cruises.
 
-## Key Operations:
+### Key Operations:
 
 1. Inserts: Add records to tables, including ports, companies, cruises, trips, bookings, fares, and travelers.
 2. Updates: Modify existing records, such as updating port names, cruise capacities, and trip details.
@@ -26,6 +26,6 @@ The objective for this project was to design and implement a relational database
 This system facilitates comprehensive management of cruises, including detailed tracking of ports, ships, trips, bookings, and associated users.
 
 # Skills
--SQL
--RDBMS
+- SQL
+- RDBMS
 
